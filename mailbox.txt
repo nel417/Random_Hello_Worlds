@@ -1,0 +1,5 @@
+box 0
+(once)
+send "outputHello, world!" to 0
+(contains "output")
+output without "output"
